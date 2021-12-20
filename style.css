@@ -1,0 +1,38 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #454545;
+  color: #ffffff;
+}
+.beta {
+  background-color: $blue-800;
+}
+#about {
+  background-color: #454545;
+  color: #ffffff;
+  padding-top: 100px;
+}
+#hobby {
+  background-color: #454545;
+  color: darkgoldenrod;
+  padding-top: 100px;
+}
+#hobby h2 {
+  color: #ffffff;
+}
+#gallery {
+  background-color: #454545;
+  color: #ffffff;
+}
+#contact {
+  background-color: #454545;
+  color: #ffffff;
+  padding-bottom: 100px;
+}
+
+gallery-img {
+  width: 100%;
+}
+
+section {
+  padding-top: 5rem;
+}
